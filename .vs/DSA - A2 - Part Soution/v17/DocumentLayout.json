@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kassa\\Downloads\\OneDrive_2025-05-01\\Assignment 2 - Home (61marks)\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49EAA3E5-6BFF-49E8-8933-847F55C8AEA4}|Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj|c:\\users\\kassa\\downloads\\onedrive_2025-05-01\\assignment 2 - home (61marks)\\dsa - a2 - part soution\\dsa - a2 - part soution\\task 1 - searching and sorting algorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49EAA3E5-6BFF-49E8-8933-847F55C8AEA4}|Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj|solutionrelative:task 1 - searching and sorting algorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49EAA3E5-6BFF-49E8-8933-847F55C8AEA4}|Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj|c:\\users\\kassa\\downloads\\onedrive_2025-05-01\\assignment 2 - home (61marks)\\dsa - a2 - part soution\\dsa - a2 - part soution\\task 1 - searching and sorting algorithms\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49EAA3E5-6BFF-49E8-8933-847F55C8AEA4}|Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj|solutionrelative:task 1 - searching and sorting algorithms\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49EAA3E5-6BFF-49E8-8933-847F55C8AEA4}|Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj|c:\\users\\kassa\\downloads\\onedrive_2025-05-01\\assignment 2 - home (61marks)\\dsa - a2 - part soution\\dsa - a2 - part soution\\task 1 - searching and sorting algorithms\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49EAA3E5-6BFF-49E8-8933-847F55C8AEA4}|Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj|solutionrelative:task 1 - searching and sorting algorithms\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46EA78D5-4E5C-4432-9711-66B2AF9B2F19}|DSA - A2 - Part Soution\\Task 2 - Random Number Generation.csproj|c:\\users\\kassa\\downloads\\onedrive_2025-05-01\\assignment 2 - home (61marks)\\dsa - a2 - part soution\\dsa - a2 - part soution\\dsa - a2 - part soution\\splitmix64.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46EA78D5-4E5C-4432-9711-66B2AF9B2F19}|DSA - A2 - Part Soution\\Task 2 - Random Number Generation.csproj|solutionrelative:dsa - a2 - part soution\\splitmix64.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46EA78D5-4E5C-4432-9711-66B2AF9B2F19}|DSA - A2 - Part Soution\\Task 2 - Random Number Generation.csproj|c:\\users\\kassa\\downloads\\onedrive_2025-05-01\\assignment 2 - home (61marks)\\dsa - a2 - part soution\\dsa - a2 - part soution\\dsa - a2 - part soution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46EA78D5-4E5C-4432-9711-66B2AF9B2F19}|DSA - A2 - Part Soution\\Task 2 - Random Number Generation.csproj|solutionrelative:dsa - a2 - part soution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49EAA3E5-6BFF-49E8-8933-847F55C8AEA4}|Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj|c:\\users\\kassa\\downloads\\onedrive_2025-05-01\\assignment 2 - home (61marks)\\dsa - a2 - part soution\\dsa - a2 - part soution\\task 1 - searching and sorting algorithms\\priority queue\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49EAA3E5-6BFF-49E8-8933-847F55C8AEA4}|Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj|solutionrelative:task 1 - searching and sorting algorithms\\priority queue\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49EAA3E5-6BFF-49E8-8933-847F55C8AEA4}|Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj|c:\\users\\kassa\\downloads\\onedrive_2025-05-01\\assignment 2 - home (61marks)\\dsa - a2 - part soution\\dsa - a2 - part soution\\task 1 - searching and sorting algorithms\\priority queue\\heap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49EAA3E5-6BFF-49E8-8933-847F55C8AEA4}|Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj|solutionrelative:task 1 - searching and sorting algorithms\\priority queue\\heap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49EAA3E5-6BFF-49E8-8933-847F55C8AEA4}|Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj|c:\\users\\kassa\\downloads\\onedrive_2025-05-01\\assignment 2 - home (61marks)\\dsa - a2 - part soution\\dsa - a2 - part soution\\task 1 - searching and sorting algorithms\\binary search tree\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49EAA3E5-6BFF-49E8-8933-847F55C8AEA4}|Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj|solutionrelative:task 1 - searching and sorting algorithms\\binary search tree\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49EAA3E5-6BFF-49E8-8933-847F55C8AEA4}|Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj|c:\\users\\kassa\\downloads\\onedrive_2025-05-01\\assignment 2 - home (61marks)\\dsa - a2 - part soution\\dsa - a2 - part soution\\task 1 - searching and sorting algorithms\\sorting\\sorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49EAA3E5-6BFF-49E8-8933-847F55C8AEA4}|Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj|solutionrelative:task 1 - searching and sorting algorithms\\sorting\\sorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49EAA3E5-6BFF-49E8-8933-847F55C8AEA4}|Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj|c:\\users\\kassa\\downloads\\onedrive_2025-05-01\\assignment 2 - home (61marks)\\dsa - a2 - part soution\\dsa - a2 - part soution\\task 1 - searching and sorting algorithms\\sorting\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49EAA3E5-6BFF-49E8-8933-847F55C8AEA4}|Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj|solutionrelative:task 1 - searching and sorting algorithms\\sorting\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49EAA3E5-6BFF-49E8-8933-847F55C8AEA4}|Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj|c:\\users\\kassa\\downloads\\onedrive_2025-05-01\\assignment 2 - home (61marks)\\dsa - a2 - part soution\\dsa - a2 - part soution\\task 1 - searching and sorting algorithms\\sorting\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49EAA3E5-6BFF-49E8-8933-847F55C8AEA4}|Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj|solutionrelative:task 1 - searching and sorting algorithms\\sorting\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49EAA3E5-6BFF-49E8-8933-847F55C8AEA4}|Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj|c:\\users\\kassa\\downloads\\onedrive_2025-05-01\\assignment 2 - home (61marks)\\dsa - a2 - part soution\\dsa - a2 - part soution\\task 1 - searching and sorting algorithms\\sorting\\customsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49EAA3E5-6BFF-49E8-8933-847F55C8AEA4}|Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj|solutionrelative:task 1 - searching and sorting algorithms\\sorting\\customsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49EAA3E5-6BFF-49E8-8933-847F55C8AEA4}|Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj|c:\\users\\kassa\\downloads\\onedrive_2025-05-01\\assignment 2 - home (61marks)\\dsa - a2 - part soution\\dsa - a2 - part soution\\task 1 - searching and sorting algorithms\\binary search tree\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49EAA3E5-6BFF-49E8-8933-847F55C8AEA4}|Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj|solutionrelative:task 1 - searching and sorting algorithms\\binary search tree\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49EAA3E5-6BFF-49E8-8933-847F55C8AEA4}|Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj|c:\\users\\kassa\\downloads\\onedrive_2025-05-01\\assignment 2 - home (61marks)\\dsa - a2 - part soution\\dsa - a2 - part soution\\task 1 - searching and sorting algorithms\\task 1 - searching and sorting algorithms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{49EAA3E5-6BFF-49E8-8933-847F55C8AEA4}|Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj|solutionrelative:task 1 - searching and sorting algorithms\\task 1 - searching and sorting algorithms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49EAA3E5-6BFF-49E8-8933-847F55C8AEA4}|Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj|c:\\users\\kassa\\downloads\\onedrive_2025-05-01\\assignment 2 - home (61marks)\\dsa - a2 - part soution\\dsa - a2 - part soution\\task 1 - searching and sorting algorithms\\task 1 - searching and sorting algorithms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{49EAA3E5-6BFF-49E8-8933-847F55C8AEA4}|Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj|solutionrelative:task 1 - searching and sorting algorithms\\task 1 - searching and sorting algorithms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Heap.cs",
+              "DocumentMoniker": "C:\\Users\\kassa\\Downloads\\OneDrive_2025-05-01\\Assignment 2 - Home (61marks)\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\Task 1 - Searching and Sorting Algorithms\\Priority Queue\\Heap.cs",
+              "RelativeDocumentMoniker": "Task 1 - Searching and Sorting Algorithms\\Priority Queue\\Heap.cs",
+              "ToolTip": "C:\\Users\\kassa\\Downloads\\OneDrive_2025-05-01\\Assignment 2 - Home (61marks)\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\Task 1 - Searching and Sorting Algorithms\\Priority Queue\\Heap.cs",
+              "RelativeToolTip": "Task 1 - Searching and Sorting Algorithms\\Priority Queue\\Heap.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAC0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:56:38.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderManager.cs",
+              "DocumentMoniker": "C:\\Users\\kassa\\Downloads\\OneDrive_2025-05-01\\Assignment 2 - Home (61marks)\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\Task 1 - Searching and Sorting Algorithms\\OrderManager.cs",
+              "RelativeDocumentMoniker": "Task 1 - Searching and Sorting Algorithms\\OrderManager.cs",
+              "ToolTip": "C:\\Users\\kassa\\Downloads\\OneDrive_2025-05-01\\Assignment 2 - Home (61marks)\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\Task 1 - Searching and Sorting Algorithms\\OrderManager.cs",
+              "RelativeToolTip": "Task 1 - Searching and Sorting Algorithms\\OrderManager.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAACMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:21:57.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuickSort.cs",
+              "DocumentMoniker": "C:\\Users\\kassa\\Downloads\\OneDrive_2025-05-01\\Assignment 2 - Home (61marks)\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\Task 1 - Searching and Sorting Algorithms\\Sorting\\QuickSort.cs",
+              "RelativeDocumentMoniker": "Task 1 - Searching and Sorting Algorithms\\Sorting\\QuickSort.cs",
+              "ToolTip": "C:\\Users\\kassa\\Downloads\\OneDrive_2025-05-01\\Assignment 2 - Home (61marks)\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\Task 1 - Searching and Sorting Algorithms\\Sorting\\QuickSort.cs",
+              "RelativeToolTip": "Task 1 - Searching and Sorting Algorithms\\Sorting\\QuickSort.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:22:49.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sorter.cs",
+              "DocumentMoniker": "C:\\Users\\kassa\\Downloads\\OneDrive_2025-05-01\\Assignment 2 - Home (61marks)\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\Task 1 - Searching and Sorting Algorithms\\Sorting\\Sorter.cs",
+              "RelativeDocumentMoniker": "Task 1 - Searching and Sorting Algorithms\\Sorting\\Sorter.cs",
+              "ToolTip": "C:\\Users\\kassa\\Downloads\\OneDrive_2025-05-01\\Assignment 2 - Home (61marks)\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\Task 1 - Searching and Sorting Algorithms\\Sorting\\Sorter.cs",
+              "RelativeToolTip": "Task 1 - Searching and Sorting Algorithms\\Sorting\\Sorter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:16:42.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kassa\\Downloads\\OneDrive_2025-05-01\\Assignment 2 - Home (61marks)\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\Task 1 - Searching and Sorting Algorithms\\Program.cs",
+              "RelativeDocumentMoniker": "Task 1 - Searching and Sorting Algorithms\\Program.cs",
+              "ToolTip": "C:\\Users\\kassa\\Downloads\\OneDrive_2025-05-01\\Assignment 2 - Home (61marks)\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\Task 1 - Searching and Sorting Algorithms\\Program.cs",
+              "RelativeToolTip": "Task 1 - Searching and Sorting Algorithms\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:08:34.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BinarySearchTree.cs",
+              "DocumentMoniker": "C:\\Users\\kassa\\Downloads\\OneDrive_2025-05-01\\Assignment 2 - Home (61marks)\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\Task 1 - Searching and Sorting Algorithms\\Binary Search Tree\\BinarySearchTree.cs",
+              "RelativeDocumentMoniker": "Task 1 - Searching and Sorting Algorithms\\Binary Search Tree\\BinarySearchTree.cs",
+              "ToolTip": "C:\\Users\\kassa\\Downloads\\OneDrive_2025-05-01\\Assignment 2 - Home (61marks)\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\Task 1 - Searching and Sorting Algorithms\\Binary Search Tree\\BinarySearchTree.cs",
+              "RelativeToolTip": "Task 1 - Searching and Sorting Algorithms\\Binary Search Tree\\BinarySearchTree.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:30:41.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kassa\\Downloads\\OneDrive_2025-05-01\\Assignment 2 - Home (61marks)\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\Program.cs",
+              "RelativeDocumentMoniker": "DSA - A2 - Part Soution\\Program.cs",
+              "ToolTip": "C:\\Users\\kassa\\Downloads\\OneDrive_2025-05-01\\Assignment 2 - Home (61marks)\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\Program.cs",
+              "RelativeToolTip": "DSA - A2 - Part Soution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:16:56.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SplitMix64.cs",
+              "DocumentMoniker": "C:\\Users\\kassa\\Downloads\\OneDrive_2025-05-01\\Assignment 2 - Home (61marks)\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\SplitMix64.cs",
+              "RelativeDocumentMoniker": "DSA - A2 - Part Soution\\SplitMix64.cs",
+              "ToolTip": "C:\\Users\\kassa\\Downloads\\OneDrive_2025-05-01\\Assignment 2 - Home (61marks)\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\SplitMix64.cs",
+              "RelativeToolTip": "DSA - A2 - Part Soution\\SplitMix64.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T11:14:04.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\kassa\\Downloads\\OneDrive_2025-05-01\\Assignment 2 - Home (61marks)\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\Task 1 - Searching and Sorting Algorithms\\Order.cs",
+              "RelativeDocumentMoniker": "Task 1 - Searching and Sorting Algorithms\\Order.cs",
+              "ToolTip": "C:\\Users\\kassa\\Downloads\\OneDrive_2025-05-01\\Assignment 2 - Home (61marks)\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\Task 1 - Searching and Sorting Algorithms\\Order.cs",
+              "RelativeToolTip": "Task 1 - Searching and Sorting Algorithms\\Order.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:08:46.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PriorityQueue.cs",
+              "DocumentMoniker": "C:\\Users\\kassa\\Downloads\\OneDrive_2025-05-01\\Assignment 2 - Home (61marks)\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\Task 1 - Searching and Sorting Algorithms\\Priority Queue\\PriorityQueue.cs",
+              "RelativeDocumentMoniker": "Task 1 - Searching and Sorting Algorithms\\Priority Queue\\PriorityQueue.cs",
+              "ToolTip": "C:\\Users\\kassa\\Downloads\\OneDrive_2025-05-01\\Assignment 2 - Home (61marks)\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\Task 1 - Searching and Sorting Algorithms\\Priority Queue\\PriorityQueue.cs",
+              "RelativeToolTip": "Task 1 - Searching and Sorting Algorithms\\Priority Queue\\PriorityQueue.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:15:43.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MergeSort.cs",
+              "DocumentMoniker": "C:\\Users\\kassa\\Downloads\\OneDrive_2025-05-01\\Assignment 2 - Home (61marks)\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\Task 1 - Searching and Sorting Algorithms\\Sorting\\MergeSort.cs",
+              "RelativeDocumentMoniker": "Task 1 - Searching and Sorting Algorithms\\Sorting\\MergeSort.cs",
+              "ToolTip": "C:\\Users\\kassa\\Downloads\\OneDrive_2025-05-01\\Assignment 2 - Home (61marks)\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\Task 1 - Searching and Sorting Algorithms\\Sorting\\MergeSort.cs",
+              "RelativeToolTip": "Task 1 - Searching and Sorting Algorithms\\Sorting\\MergeSort.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAMwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:20:48.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomSort.cs",
+              "DocumentMoniker": "C:\\Users\\kassa\\Downloads\\OneDrive_2025-05-01\\Assignment 2 - Home (61marks)\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\Task 1 - Searching and Sorting Algorithms\\Sorting\\CustomSort.cs",
+              "RelativeDocumentMoniker": "Task 1 - Searching and Sorting Algorithms\\Sorting\\CustomSort.cs",
+              "ToolTip": "C:\\Users\\kassa\\Downloads\\OneDrive_2025-05-01\\Assignment 2 - Home (61marks)\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\Task 1 - Searching and Sorting Algorithms\\Sorting\\CustomSort.cs",
+              "RelativeToolTip": "Task 1 - Searching and Sorting Algorithms\\Sorting\\CustomSort.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:27:24.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TreeNode.cs",
+              "DocumentMoniker": "C:\\Users\\kassa\\Downloads\\OneDrive_2025-05-01\\Assignment 2 - Home (61marks)\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\Task 1 - Searching and Sorting Algorithms\\Binary Search Tree\\TreeNode.cs",
+              "RelativeDocumentMoniker": "Task 1 - Searching and Sorting Algorithms\\Binary Search Tree\\TreeNode.cs",
+              "ToolTip": "C:\\Users\\kassa\\Downloads\\OneDrive_2025-05-01\\Assignment 2 - Home (61marks)\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\Task 1 - Searching and Sorting Algorithms\\Binary Search Tree\\TreeNode.cs",
+              "RelativeToolTip": "Task 1 - Searching and Sorting Algorithms\\Binary Search Tree\\TreeNode.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:33:59.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Task 1 - Searching and Sorting Algorithms.csproj",
+              "DocumentMoniker": "C:\\Users\\kassa\\Downloads\\OneDrive_2025-05-01\\Assignment 2 - Home (61marks)\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj",
+              "RelativeDocumentMoniker": "Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj",
+              "ToolTip": "C:\\Users\\kassa\\Downloads\\OneDrive_2025-05-01\\Assignment 2 - Home (61marks)\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj",
+              "RelativeToolTip": "Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-12T12:30:28.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Task 1 - Searching and Sorting Algorithms",
+              "DocumentMoniker": "C:\\Users\\kassa\\Downloads\\OneDrive_2025-05-01\\Assignment 2 - Home (61marks)\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj",
+              "RelativeDocumentMoniker": "Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj",
+              "ToolTip": "C:\\Users\\kassa\\Downloads\\OneDrive_2025-05-01\\Assignment 2 - Home (61marks)\\DSA - A2 - Part Soution\\DSA - A2 - Part Soution\\Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj",
+              "RelativeToolTip": "Task 1 - Searching and Sorting Algorithms\\Task 1 - Searching and Sorting Algorithms.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-12T13:44:27.485Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
